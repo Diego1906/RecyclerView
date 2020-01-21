@@ -40,7 +40,7 @@
              RecyclerView in a later lesson. -->
 
         <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/sleep_list"
+            android:id="@+id/sleep_list_recycler_view"
             android:layout_width="0dp"
             android:layout_height="0dp"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
